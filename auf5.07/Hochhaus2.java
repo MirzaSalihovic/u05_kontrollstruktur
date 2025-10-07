@@ -14,9 +14,9 @@ public class Hochhaus2
 
       for(int i = 1; i<=4; i++)
       {
-      System.out.println(" |  ___    ___  | ");
-      System.out.println(" |  | |    | |  | ");
-      System.out.println(" |  ---    ---  | ");
+         System.out.println(" |  ___    ___  | ");
+         System.out.println(" |  | |    | |  | ");
+         System.out.println(" |  ---    ---  | ");
       }
 
       System.out.println(" |  HOTEL  ___  | ");
