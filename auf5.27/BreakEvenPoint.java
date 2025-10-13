@@ -3,7 +3,6 @@ public class BreakEvenPoint
    public static void main(String[] args)
    {
 
-      
       int verkaufspreis  = 1500;
       int rohstoffkosten = 600;
       int arbeitskosten  = 400;
@@ -27,16 +26,5 @@ public class BreakEvenPoint
          
          System.out.println("Stueckzahl: " + i + " " + "Gesamtkosten: " + gesamtkosten + " " + "Erloes: " + erloes + " " + "Ueberschuss: " + ueberschuss);
       }
-
-      //while(betrag > 100)
-      //{
-      // betrag -= 100;
-      // System.out.println(zähler++ + ". Rate: " + rate + "Euro");
-         
-        // if(betrag < 100)
-        // {
-           // System.out.println(zähler++ + ". Rate: " + betrag + "Euro");
-         //}
-      //}
    }
 }
